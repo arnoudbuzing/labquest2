@@ -39,5 +39,4 @@ You can collect the recorded data for a specific set, e.g.:
 
     data = labquest2[{"Set", "279"}]
     
-    
-    
+See the `test.nb` notebook for detailed examples.    
